@@ -1,0 +1,17 @@
+body{
+    background:repeating-radial-gradient(circle closest-corner, white, rgb(120, 193, 197));
+    border-top-style:solid;
+    border-color:rgb(22, 93, 138);
+    p{text-align: center;};
+    h1{text-align: center;};
+    h1{font-size: 50px;};
+    h1{text-shadow: 0px 10px 3px rgb(0, 225, 255), 0px 5px 2px silver;};
+    h1{color: darkcyan;};
+    p{text-shadow: 0px 3px 3px rgb(27, 86, 103);color: aliceblue;}
+}
+hr{
+    color: rgb(7, 7, 148);
+}
+h1{
+    background:linear-gradient(0deg, rgb(18, 212, 255), rgb(234, 255, 232) );
+}
